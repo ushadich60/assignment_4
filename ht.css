@@ -41,9 +41,59 @@ body{
 
 }
 
+#ff1 ,#ff2 ,#ff3,#ff4,#ff5,#ff6{
+
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+
+}
+
 #ff2{
 
     color: #f0ad4e ;
     text-decoration: overline;
+
+}
+
+p{
+
+    font-size: 30px;
+
+
+}
+
+#ff3{
+
+    color: #5cb85c;
+    word-spacing: 10px;
+
+}
+
+#ff4{
+    color: #0275d8;
+    letter-spacing: 5px;
+
+
+}
+
+#ff5{
+
+    text-indent: 30px;
+    color: #6f42c1;
+
+
+
+}
+
+#ff6{
+    /*
+    text-align: ;
+*/
+    text-transform: uppercase;
+    color: #e83e8c;
 
 }
